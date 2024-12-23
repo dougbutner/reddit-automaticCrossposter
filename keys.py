@@ -5,7 +5,9 @@ keys = dict(
     username="juice_cane",
     password="RedditBot369__",
     client_id2="U7VejN2zPEZhI4gSBhsj6Q",
+    #client_id2="Ke_FPC4ESQs7aDh53-13GQ",
     client_secret2="7mGlz-rCrgTdfm5L8bUAheFtNcBLsg",
+    #client_secret2="wky9MPF6-Zu67LKUR_DWTbr_nJRDKw",
     username2="MerryAires",
     password2="RedditBot369__"
 )

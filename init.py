@@ -51,7 +51,7 @@ for submission in reddit.subreddit(config['fromSub']).stream.submissions():
         f.close()
         postedIds.append(str(submission.id))
         
-        reddit_accounts = [reddit, reddit2]
+        reddit_accounts = [reddit2, reddit2] # TODO CHANGE THIS BACK 
         random.shuffle(reddit_accounts)
         
         for chosen_account in reddit_accounts:
